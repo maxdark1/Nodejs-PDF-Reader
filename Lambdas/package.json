@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "aws-sdk": "^2.1406.0",
     "pdf-export-images": "^1.0.9",
     "pdf-parse": "^1.1.1"
   }
